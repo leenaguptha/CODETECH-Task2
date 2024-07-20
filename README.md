@@ -27,3 +27,9 @@ BACKEND DEVELOPMENT:
 1.Setting up Express Server: To serve the API endpoints for the blog application by settig up basic expres server in 'server.js'
 2.Define Mongoose Schema: To define the structure of blog post documents in MongoDB.
 3.Implementing CRUD EndPoints: To provide API endpoints for creating, updating, deleting blog posts.
+
+![b1](https://github.com/user-attachments/assets/940cf3ee-83ea-41ea-9969-4efa2b2eb4c5)
+
+![bb2](https://github.com/user-attachments/assets/d8f70df7-6314-4b1a-b797-9e95ef3f1bb9)
+
+![b3](https://github.com/user-attachments/assets/2bfe0a75-40fc-4cbe-ac44-7dccaee7bf1e)
